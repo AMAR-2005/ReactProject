@@ -12,7 +12,6 @@ const App=()=>{
     backgroundColor:'lightgrey',
     height:'300px',
     width:'300px',
-    
   }
   const in1={
     position:'absolute',
