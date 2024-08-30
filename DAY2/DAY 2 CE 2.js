@@ -17,7 +17,9 @@ import React from 'react';
   return(
     <div>
       <h1 style={inline1}>Inline Style in JSX Example.</h1>
+
       <div style={inline2}>
+        
         <p style={inline3}>This is a paragraph with inline styles applied.</p>
       </div>
     </div>
